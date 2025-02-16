@@ -1,0 +1,24 @@
+﻿Lessons,Desc
+Chapter 1 : introduction,introduces basics of shell and some weird features of it.
+1. I/O stream,
+2. I/O redirection,
+3. Pipe,
+4. Here document,
+5. Waiting or not for commands,
+6. Running and commenting the script,
+Chapter 2 : control structure,introduces the control structure in bash
+7. Taking actions on success or fail,
+8. if statement in bash,
+Chapter 3 : variables,introduces the variable and their use in bash shell.
+9. variables in bash,
+10. passing variables to subshells,
+11. builtin variables,
+12. formatting output with printf,
+13. shell’s notion of all params,
+14. changing value with simple substitution,
+Chapter 4: flow of control,loops and other control structures that controls how program functions
+15. for loop,
+16. reading input from user,
+17. while loop in bash,
+Chapter 5: shell math and logic,
+18. simple math in bash,
